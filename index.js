@@ -12,7 +12,6 @@ module.exports = function(source, map) {
 	//格式改为webp
 	processed=processed.replace(webpReg, '$1'+'_.webp');
 	//就是这么easy，红红火火恍恍惚惚好
-	console.log(processed)
 
 	this.callback(null, processed, map);
 };
