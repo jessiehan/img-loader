@@ -1,0 +1,23 @@
+{
+  "name": "img-loader",
+  "version": "1.0.0",
+  "description": "img url process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessiehan/img-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "image"
+  ],
+  "author": "Jessie Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessiehan/img-loader/issues"
+  },
+  "homepage": "https://github.com/jessiehan/img-loader#readme"
+}
